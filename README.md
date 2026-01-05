@@ -64,7 +64,7 @@ No dependencies required! Just a modern web browser.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ios-notes.git
+git clone https://github.com/shishkannov/ios-notes.git
 ```
 
 2. Navigate to the project directory:
@@ -321,5 +321,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-ios-notes)
 
 </div>
+
 
 
