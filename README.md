@@ -53,19 +53,6 @@ iOS Notes is a lightweight, browser-based notes application that brings the eleg
 
 > **Note:** Add screenshots here once you deploy the app or create a demo page.
 
-### Screenshots
-
-<div align="center">
-
-| Light Theme | Dark Theme |
-|------------|------------|
-| ![Light Theme](screenshots/light-theme.png) | ![Dark Theme](screenshots/dark-theme.png) |
-
-| List View | Gallery View |
-|-----------|--------------|
-| ![List View](screenshots/list-view.png) | ![Gallery View](screenshots/gallery-view.png) |
-
-</div>
 
 ## 🚀 Getting Started
 
@@ -334,4 +321,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-ios-notes)
 
 </div>
+
 
