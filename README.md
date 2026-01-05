@@ -45,10 +45,6 @@ iOS Notes is a lightweight, browser-based notes application that brings the eleg
 | 🗑️ **Batch Delete** | Delete multiple notes at once |
 | 📝 **Rich Editing** | Clean, distraction-free editing experience |
 
-## 🖼️ Demo
-
-> **Note:** Add screenshots here once you deploy the app or create a demo page.
-
 
 ## 🚀 Getting Started
 
@@ -317,6 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-ios-notes)
 
 </div>
+
 
 
 
